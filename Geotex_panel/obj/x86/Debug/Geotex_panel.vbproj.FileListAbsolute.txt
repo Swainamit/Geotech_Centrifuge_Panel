@@ -1,0 +1,19 @@
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\bin\Debug\Geotex_panel.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\bin\Debug\Geotex_panel.pdb
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\bin\Debug\Geotex_panel.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\obj\x86\Debug\Geotex_panel.Form1.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\obj\x86\Debug\Geotex_panel.Resources.resources
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\obj\x86\Debug\Geotex_panel.vbproj.GenerateResource.Cache
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\obj\x86\Debug\Geotex_panel.exe
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\obj\x86\Debug\Geotex_panel.xml
+C:\Users\LENOVO\AppData\Local\Temporary Projects\Geotex_panel\obj\x86\Debug\Geotex_panel.pdb
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.exe
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.xml
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.pdb
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.Form1.resources
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.Resources.resources
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.vbproj.GenerateResource.Cache
+F:\VB\Geotex_panel\Geotex_panel\bin\Debug\Geotex_panel.exe
+F:\VB\Geotex_panel\Geotex_panel\bin\Debug\Geotex_panel.pdb
+F:\VB\Geotex_panel\Geotex_panel\bin\Debug\Geotex_panel.xml
+F:\VB\Geotex_panel\Geotex_panel\obj\x86\Debug\Geotex_panel.vbprojResolveAssemblyReference.cache
